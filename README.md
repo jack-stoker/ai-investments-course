@@ -4,6 +4,10 @@ This repository contains Homework assignments, template code, and other shared c
 
 The course focuses on using modern AI tools—especially large language models—as **partners in the investment management process**, with an emphasis on judgment, objectives, and failure modes rather than coding mechanics.
 
+## Links to open Homework notebooks in Colab
+
+[Homework 1](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework1/Homework1.ipynb)
+
 ## Questions and Communication
 
 Course communication (announcements, questions, office hours, discussion) is handled via **Discord**, not GitHub Issues.
